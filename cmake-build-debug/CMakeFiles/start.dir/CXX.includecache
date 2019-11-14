@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sandra/Documents/Projet/start/Graph.cpp
+cstring
+-
+queue
+-
+Graph.h
+C:/Users/Sandra/Documents/Projet/start/Graph.h
+
+C:/Users/Sandra/Documents/Projet/start/Graph.h
+tuple
+-
+vector
+-
+list
+-
+iostream
+-
+
+C:/Users/Sandra/Documents/Projet/start/main.cpp
+Graph.h
+C:/Users/Sandra/Documents/Projet/start/Graph.h
+
