@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Sandra/Documents/Projet/start/DataReader.cpp">
+			<Option target="start"/>
+		</Unit>
+		<Unit filename="C:/Users/Sandra/Documents/Projet/start/DataReader.h">
+			<Option target="start"/>
+		</Unit>
 		<Unit filename="C:/Users/Sandra/Documents/Projet/start/Graph.cpp">
 			<Option target="start"/>
 		</Unit>

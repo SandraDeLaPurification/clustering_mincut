@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Sandra/Documents/Projet/start/Graph.cpp
-cstring
+C:/Users/Sandra/Documents/Projet/start/DataReader.h
+fstream
 -
-queue
+vector
 -
-Graph.h
-C:/Users/Sandra/Documents/Projet/start/Graph.h
+iostream
+-
 
 C:/Users/Sandra/Documents/Projet/start/Graph.h
 tuple
@@ -23,8 +23,14 @@ list
 -
 iostream
 -
+cstring
+-
+queue
+-
 
 C:/Users/Sandra/Documents/Projet/start/main.cpp
 Graph.h
 C:/Users/Sandra/Documents/Projet/start/Graph.h
+DataReader.h
+C:/Users/Sandra/Documents/Projet/start/DataReader.h
 

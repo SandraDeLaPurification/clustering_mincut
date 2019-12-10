@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/start.dir/DataReader.cpp.obj"
   "CMakeFiles/start.dir/Graph.cpp.obj"
   "CMakeFiles/start.dir/main.cpp.obj"
   "libstart.dll.a"

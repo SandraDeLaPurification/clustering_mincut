@@ -122,6 +122,33 @@ start/fast:
 	$(MAKE) -f CMakeFiles\start.dir\build.make CMakeFiles/start.dir/build
 .PHONY : start/fast
 
+DataReader.obj: DataReader.cpp.obj
+
+.PHONY : DataReader.obj
+
+# target to build an object file
+DataReader.cpp.obj:
+	$(MAKE) -f CMakeFiles\start.dir\build.make CMakeFiles/start.dir/DataReader.cpp.obj
+.PHONY : DataReader.cpp.obj
+
+DataReader.i: DataReader.cpp.i
+
+.PHONY : DataReader.i
+
+# target to preprocess a source file
+DataReader.cpp.i:
+	$(MAKE) -f CMakeFiles\start.dir\build.make CMakeFiles/start.dir/DataReader.cpp.i
+.PHONY : DataReader.cpp.i
+
+DataReader.s: DataReader.cpp.s
+
+.PHONY : DataReader.s
+
+# target to generate assembly for a file
+DataReader.cpp.s:
+	$(MAKE) -f CMakeFiles\start.dir\build.make CMakeFiles/start.dir/DataReader.cpp.s
+.PHONY : DataReader.cpp.s
+
 Graph.obj: Graph.cpp.obj
 
 .PHONY : Graph.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... start
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... DataReader.obj
+	@echo ... DataReader.i
+	@echo ... DataReader.s
 	@echo ... Graph.obj
 	@echo ... Graph.i
 	@echo ... Graph.s

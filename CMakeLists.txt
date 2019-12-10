@@ -3,4 +3,4 @@ project(start)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(start main.cpp Graph.cpp Graph.h)
+add_executable(start main.cpp Graph.cpp Graph.h DataReader.cpp DataReader.h)
